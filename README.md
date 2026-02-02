@@ -32,7 +32,7 @@
   <a href="https://www.hackerrank.com/profile/khushaldhakate12" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-khushaldhakate12-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
-  
+  </br>
   <a href="https://leetcode.com/u/Khushal_Dhakate12/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Khushal_Dhakate12-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
